@@ -1,0 +1,63 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/Intel/here/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Intel/here/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'here 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'here 1.0-SNAPSHOT API'
+'C:/Users/Intel/here/src/main/java/Alumno.java'
+'C:/Users/Intel/here/src/main/java/here.java'
+'C:/Users/Intel/here/src/main/java/Libros.java'
+'C:/Users/Intel/here/src/main/java/Persona.java'
+'C:/Users/Intel/here/src/main/java/Prestamo.java'
+'C:/Users/Intel/here/src/main/java/Profesor.java'
+C:\Users\Intel\here\src\main\java\Alumno.java = 1676428342712
+C:\Users\Intel\here\src\main\java\here.java = 1676428342772
+C:\Users\Intel\here\src\main\java\Libros.java = 1676428342934
+C:\Users\Intel\here\src\main\java\Persona.java = 1676428342994
+C:\Users\Intel\here\src\main\java\Prestamo.java = 1676428342566
+C:\Users\Intel\here\src\main\java\Profesor.java = 1676428342846
+C:\Users\Intel\here\src\main\java = 1676428360270
+C:\Users\Intel\here\target\site\apidocs\allclasses-index.html = 1676428409431
+C:\Users\Intel\here\target\site\apidocs\allpackages-index.html = 1676428409474
+C:\Users\Intel\here\target\site\apidocs\Alumno.html = 1676428408793
+C:\Users\Intel\here\target\site\apidocs\copy.svg = 1676428409624
+C:\Users\Intel\here\target\site\apidocs\element-list = 1676428409071
+C:\Users\Intel\here\target\site\apidocs\help-doc.html = 1676428409593
+C:\Users\Intel\here\target\site\apidocs\index-all.html = 1676428409581
+C:\Users\Intel\here\target\site\apidocs\index.html = 1676428409585
+C:\Users\Intel\here\target\site\apidocs\jquery-ui.overrides.css = 1676428409915
+C:\Users\Intel\here\target\site\apidocs\Libros.html = 1676428408937
+C:\Users\Intel\here\target\site\apidocs\member-search-index.js = 1676428409520
+C:\Users\Intel\here\target\site\apidocs\module-search-index.js = 1676428409478
+C:\Users\Intel\here\target\site\apidocs\overview-tree.html = 1676428409398
+C:\Users\Intel\here\target\site\apidocs\package-search-index.js = 1676428409481
+C:\Users\Intel\here\target\site\apidocs\package-summary.html = 1676428409108
+C:\Users\Intel\here\target\site\apidocs\package-tree.html = 1676428409116
+C:\Users\Intel\here\target\site\apidocs\package-use.html = 1676428409371
+C:\Users\Intel\here\target\site\apidocs\Persona.html = 1676428408974
+C:\Users\Intel\here\target\site\apidocs\Prestamo.html = 1676428408984
+C:\Users\Intel\here\target\site\apidocs\Profesor.html = 1676428409069
+C:\Users\Intel\here\target\site\apidocs\script.js = 1676428409622
+C:\Users\Intel\here\target\site\apidocs\search.js = 1676428409681
+C:\Users\Intel\here\target\site\apidocs\serialized-form.html = 1676428409176
+C:\Users\Intel\here\target\site\apidocs\stylesheet.css = 1676428409619
+C:\Users\Intel\here\target\site\apidocs\tag-search-index.js = 1676428409522
+C:\Users\Intel\here\target\site\apidocs\type-search-index.js = 1676428409519
